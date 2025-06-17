@@ -1,0 +1,7 @@
+{
+    "naming_convention": "camelCase",
+    "docstrings": false,
+    "comments": "C-style",
+    "language": "Python",
+    "indentation": 4
+}
